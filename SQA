@@ -5,10 +5,10 @@ int main() {
     int x, y, product;
     
     cout << "Enter two integers\n";
-    cin >> x >> y;
+    cin >> num1>> num2;
     
-    // Multiplying x and y
-    product = x*y;
+    // Multiplying num1 and num2
+    product = num1*num2;
     cout << "Product = " << product;
     
     return 0;
